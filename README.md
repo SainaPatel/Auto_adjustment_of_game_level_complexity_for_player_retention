@@ -4,10 +4,6 @@ For every gaming company the most important part is to retain their players, for
 
 In this project, I have created a sample game player data for a game called as “FREE FLOW”.
 	
-For every gaming company the most important part is to retain their players, for this they have to make their game addictive as well as keep updating it. But along with this, understanding their players is also important, for example do they like it, whether they are on the verge of leaving the game, etc. For this analysis of game player data is important.
-
-In this project, I have created a sample game player data for a game called as “FREE FLOW”.
-
 In this game the player has to connect all the matching color dots, with less number of moves. There are certain minimum set of moves for every game, which is called best value. 
 
 If a player has his number of moves equal to best value, it indicates he is very well going with the game, whereas the more the number of moves and reattempts a player takes, it shows that player is having difficulty.
